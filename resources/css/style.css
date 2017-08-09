@@ -4,11 +4,21 @@ html{
   text-align: center;
   background-color: black;
 }
-h1{
+.title{
   font-weight: normal;
   font-size: 50px;
+}
+h1{
+  font-weight: 300;
+  font-size: 42px;
 }
 .link{
   color:aquamarine;
   font-size: 16px;
+}
+h2{
+  color:gray;
+}
+.copyright{
+  text-align: right;
 }
